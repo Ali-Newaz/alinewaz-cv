@@ -1,5 +1,12 @@
 # Ali Newaz CV
 
-Responsive CV portfolio with an in-page CV window and direct PDF download.
+An animated, responsive CV and portfolio landing page featuring:
 
-The **View / Download CV** buttons open a normal CV preview. **Download Ali Newaz_CV.pdf** generates and downloads an A4 PDF in the browser. Vercel automatically redeploys when this repository is connected.
+- WebGL particle atmosphere with a reduced-motion fallback
+- GSAP and ScrollTrigger section choreography
+- Smooth magnetic cursor interactions and click bursts
+- Interactive hover lighting on focus cards
+- CV preview modal with portrait and `Ali Newaz_CV.pdf` download
+- Correct contact email: `alinewaz5678900@gmail.com`
+
+Vercel automatically redeploys this static site when the connected `main` branch changes.
